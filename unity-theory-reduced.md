@@ -1,16 +1,23 @@
-# UNITY THEORY 
-Classification: Monistic Constructivism / Informational Ontology
+# UNITY THEORY
 
-Abstract 
-Unity Theory posits that reality is a single undifferentiated state called Unity (U). All perceived existence ("Something") is a temporary, energetic differentiation of this Unity. Identity is not inherent to matter, but is a closed-loop pattern projected by an observer (The Self). Existence is governed by a thermodynamic-like economy of definition: creating identity requires energy (Realization), while entropy naturally returns all things to undifferentiation (Universal Return).
+Abstract
+
+Unity Theory is a cognitive framework that begins with the idea that reality is a single undifferentiated and boundless 
+state of potential called Unity (U). Identities are not inherent to matter but rather are the product of sustained, active 
+cognitive processes. These are subject to thermodynamics and create an energy economy of thought. Our brains have 
+evolved strategies to save energy while maintaining these identities. We reduce their complexity by grouping them into classes, 
+discarding irrelevant details, and employing heuristics to infer those details later based on previous experiences.
+Changing one's mind comes with a real physical cost, and our brains optimize the most frequently used processes. This
+increases the cost to change them as they must be stripped of optimization before they can be modified. Common cognitive
+biases such as confirmation bias arise from our efforts to avoid paying these costs.
 
 ## Axioms (Ontology)
 ### Everything and nothing are indistinguishable
-"Everything" and "nothing" are identical states, namely, the state of having no individual identity. 
-Having no individual identity, the ultimate thing that composes reality must be a thing defined by its complete lack of boundaries 
-or differentiation. 
-1. "Everything" is the state of all things, possible and potential, lacking boundary or differentiation. 
-2. "Nothing" is the opposite of this state, which despite being the opposite and containing within itself no 'things', nevertheless is characterized by lacking boundary or differentiation. 
+"Everything" and "nothing" are identical states, namely, the state of having no individual identity.
+Having no individual identity, the ultimate thing that composes reality must be a thing defined by its complete lack of boundaries
+or differentiation.
+1. "Everything" is the state of all things, possible and potential, lacking boundary or differentiation.
+2. "Nothing" is the opposite of this state, which despite being the opposite and containing within itself no 'things', nevertheless is characterized by lacking boundary or differentiation.
 3. As both "everything" and "nothing" can only be defined by the unique properties of boundary and differentiation, we can conclude that this property is the only thing we can use to distinguish them.
 4. The unique property of boundary and differentiation is the same for both "everything" and "nothing".
 5. Therefore, we cannot meaningfully define them to be different.
@@ -33,7 +40,7 @@ This is not an act of creation in that we are not "making" matter or energy. Rat
 
 ### Universal Composition: The Unity contains all available differentiation functions of itself
 Unity inherently contains all possible differentiation functions in composition. U \supseteq { f_1, f_2, ... f_n } Existence is not a random event but the inevitable expression of Unity’s internal potential.
-### Universal Return: Without energy input, the Unity returns to its base state of pure potential. 
+### Universal Return: Without energy input, the Unity returns to its base state of pure potential.
 t→∞
 lim
 ​
@@ -58,7 +65,7 @@ f_{me}(U, me) = g(U, h(U, ...), me)
 
 We arise from Unity by applying the functions g, h, ... to it. These functions are the chain of events, expenditures of energy, and self-sustaining processes that created our bodies
 
-### The Limit of Knowledge: 
+### The Limit of Knowledge:
 One cannot observe Unity directly; one can only observe the interaction between Unity and the Self. Observation always begins at f_me(U, me)
 
 ### The Fundamental Operations
