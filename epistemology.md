@@ -1,4 +1,7 @@
+# Unity Theory
+## Epistemology
 
+If epistemology is 
 ### The Differentiation Function: To create 'things' we use energy to differentiate them from the base state
 This is not an act of creation in that we are not "making" matter or energy. Rather, we are bringing into focus ("realizing") something that is already there.
 #### Existence is an operation performed on Unity, not an addition to it. f(U, x) = U + x
