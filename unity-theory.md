@@ -1,4 +1,5 @@
-#UNITY THEORY Version: 1.0 Date: November 20, 2025 Classification: Monistic Constructivism / Informational Ontology Author: Mitchell Wright
+# UNITY THEORY 
+ Classification: Monistic Constructivism / Informational Ontology
 ##Abstract Unity Theory posits that reality is a single undifferentiated state called Unity (U). All perceived existence ("Something") is a temporary, energetic differentiation of this Unity. Identity is not inherent to matter, but is a closed-loop pattern projected by an observer (The Self). Existence is governed by a thermodynamic-like economy of definition: creating identity requires energy (Realization), while entropy naturally returns all things to undifferentiation (Universal Return).
 The Axioms of Being (Ontology)
 Everything and Nothing are indistinguishable
