@@ -1,37 +1,3 @@
-# UNITY THEORY
-
-Abstract
-
-Unity Theory is a cognitive framework that begins with the idea that reality is a single undifferentiated and boundless 
-state of potential called Unity (U). Identities are not inherent to matter but rather are the product of sustained, active 
-cognitive processes. These are subject to thermodynamics and create an energy economy of thought. Our brains have 
-evolved strategies to save energy while maintaining these identities. We reduce their complexity by grouping them into classes, 
-discarding irrelevant details, and employing heuristics to infer those details later based on previous experiences.
-Changing one's mind comes with a real physical cost, and our brains optimize the most frequently used processes. This
-increases the cost to change them as they must be stripped of optimization before they can be modified. Common cognitive
-biases such as confirmation bias arise from our efforts to avoid paying these costs.
-
-## Axioms (Ontology)
-### Everything and nothing are indistinguishable
-"Everything" and "nothing" are identical states, namely, the state of having no individual identity.
-Having no individual identity, the ultimate thing that composes reality must be a thing defined by its complete lack of boundaries
-or differentiation.
-1. "Everything" is the state of all things, possible and potential, lacking boundary or differentiation.
-2. "Nothing" is the opposite of this state, which despite being the opposite and containing within itself no 'things', nevertheless is characterized by lacking boundary or differentiation.
-3. As both "everything" and "nothing" can only be defined by the unique properties of boundary and differentiation, we can conclude that this property is the only thing we can use to distinguish them.
-4. The unique property of boundary and differentiation is the same for both "everything" and "nothing".
-5. Therefore, we cannot meaningfully define them to be different.
-6. They must be the same fundamental thing, which we define as "Unity"
-
-### The Unity is the entity of absolute existence, unbounded by limits or differentiation
-Matter, energy, thought, potentials of all of these. It is the set of all things both existing and possible from which any single 'thing' or multiple 'things' can be derived. It is the entity for which the question "is it?" is always "yes".
-
-### The base state of Unity is pure potential without an individual identity
-This is the state of 'anything', total freedom of existence and definition.
-
-
-
-### The base state of Unity is the objective reality we observe
 
 ### The Differentiation Function: To create 'things' we use energy to differentiate them from the base state
 This is not an act of creation in that we are not "making" matter or energy. Rather, we are bringing into focus ("realizing") something that is already there.
@@ -52,21 +18,18 @@ t
 #### The Accounting: Existence is a "loan" of definition. Death/Dissolution is not a tragedy, but the settlement of the account.
 
 
-
-
-
-
-
 ## The Mechanics of Experience (Epistemology)
 ### The Self (me)
 The Self is a complex, self-sustaining chain of functions capable of processing Unity
 
 f_{me}(U, me) = g(U, h(U, ...), me)
 
-We arise from Unity by applying the functions g, h, ... to it. These functions are the chain of events, expenditures of energy, and self-sustaining processes that created our bodies
+We arise from Unity by applying the functions g, h, ... to it. These functions are the chain of events, expenditures
+of energy, and self-sustaining processes that created our bodies
 
-### The Limit of Knowledge:
-One cannot observe Unity directly; one can only observe the interaction between Unity and the Self. Observation always begins at f_me(U, me)
+### The Limit of Knowledge: Can't see the forest if you're a tree
+One cannot observe Unity directly; one can only observe the interaction between Unity and the Self. Observation always
+begins at f_me(U, me)
 
 ### The Fundamental Operations
 These are the fundamental operations of conscious experience. These are what we can do with Unity as conscious beings.
