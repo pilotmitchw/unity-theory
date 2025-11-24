@@ -37,26 +37,27 @@ It proves that Realization is a generative act (Imagination), not merely a refle
 ##### The Good
 - Realization: allows meaning to be made from the Unity.
 - Generalization: conserves energy by returning irrelevant detail to the Unity
-- Analogy: changing context is easier than realizing a new identity
+- Analogy: changing context is easier than realizing a new identity and is the foundation of adaptation
 - Inversion: cheap because it is sticking NOT to an existing identity
 - Aggregation: reduces complexity by creating a local group. Realizations from this point can start at and return to the
 aggregation rather than the Unity
-- Discrimination: lets us refine aggregations by surveying them and analyzing the parts of things independently of the
+- Discrimination: lets us check aggregations by surveying them and analyzing the parts of things independently of the
 whole.
 ##### The Bad
 - Realization: always the risk of realizing something wrong.
 - Generalization: forgetting something that turned out to be important.
-- Analogy: Applying a Universal Hammer to a Universal Nail
-- Inversion: the opposite thing is also realized
+- Analogy: Applying a Universal Hammer to a Universal Nail.
+- Inversion: the opposite thing is also realized for free, and the temptation to use it is strong.
 - Aggregation: stereotypical thinking, assuming that a thing has a property because we cluster it into the same group as something else.
-- Discrimination: overanalysis and overthinking, trying to make things that are not alike the same for energetic convenience
+- Discrimination: overanalysis and overthinking, trying to make things that are not alike the same for energetic convenience.
 ##### The Painfully Ugly
-- Realization: delusion
-- Generalization: neglect
-- Analogy: anchoring
-- Inversion: reflexive duality
-- Aggregation: tribalism
-- Discrimination: obsession
+- Realization: delusion is runaway realization, untethered to reality.
+- Generalization: neglect is forgetting, willfully or not, someone else's needs.
+- Analogy: freewheeling analogizing masquerading as understanding results in the Dunning-Kruger effect.
+- Inversion: reflexive duality results in anti-realizations, which may be illusory but still inspire action.
+- Aggregation: tribalism arises from incorporating oneself into an in-group.
+- Discrimination: obsession is painful, often compulsive, and comes from trying to discriminate along a difference 
+that might not exist.
 
 The universe follows the path of least resistance (Energy Conservation).
 - Analogizing: Instead of Realizing a new object from scratch (Origin → Object), the Self puts an existing Realization into a new context. Yields the Representativeness Heuristic (assuming that a thing possesses a certain quality because it is similar to something else) and the Law of the Instrument (the tendency to over-rely on a familiar tool or mental model (analogy) to solve every problem)
