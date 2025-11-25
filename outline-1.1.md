@@ -29,9 +29,10 @@ By Mitchell Wright
   - Fundamental
     - Realization
       - As generative act via the Lie
+      - Objectivity and Rigor
     - Generalization
       - Tests of Objectivity
-        - Consistency of Re-realization
+        - Consistency
     - Comparison
   - Expedients
     - Analogy
