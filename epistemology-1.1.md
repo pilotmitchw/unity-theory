@@ -7,13 +7,34 @@ Changes from 1.0
 - extracted the Unity Graph stuff to unity-graph-1.0.md
 
 ## Epistemology
-### Who am I? What am I?
+### Identities
+If epistemology is about how we know what we know, we'll need a box to put that in. I use 'identity' for that box.
+An identity is a realized distinction between the Unity and a particular thing. 
+Realizing an identity does not affect the state of Unity. It's just you focusing on something that's already there
+and putting it into your box of things to care about right now.
 
+### What am I? What's my identity?
+You're probably a human. I *hope* you're a human. Otherwise, things will have gone entirely too far for Unity Theory 
+to explain, and reading further would probably be useless.
 
+I have a formal definition of the Self as "a recursive set of functions residing in the Unity that can perform
+realization and generalization on the Unity." I'll put at the end of this section if you have some urgent need to 
+be bored, perhaps to help fall asleep or better ignore someone nearby. I won't tell.
 
-### The Limit of Knowledge: Can't see the forest if you're a tree
-One cannot observe Unity directly; one can only observe the interaction between Unity and the Self. Observation always
-begins at f_me(U, me)
+We are protective of our self-identities, and that's for good reason. It's the thing that you decide you are, and
+you pull in concepts and relationships with others into it across a lifetime. What's in there and the container
+holding it is *you*, and I am reluctant to stick a definition on it. You're...you. And I'm me. We're people, and
+we think stuff and do stuff. Some of it's good and some of it's bad. Defining beyond that in a theory about energy
+conservation would rather ruin the point of it all. So I'm going to say you're a person and however you define that
+is what it is, but it includes the ability to realize and generalize. Or else you are reading this by some means
+I don't understand but would be interested to know more about.
+
+### The Limit of Knowledge
+You can observe the surrounding Unity, but you can't see it all at once. Even if you could, you'd still be limited in
+how much you can realize at once. Our brains can only handle so many things at a time, and the number is smaller than 
+we'd like it to be. At the risk of outing my profession, I say the limit of knowledge arises as a matter
+of bandwidth and cache size. You've only got so much brain, and if yours is like mine, your control over it is, shall 
+we say, 'significantly less than absolute.'
 
 ### How do I do it?
 #### Basic tools
