@@ -25,6 +25,10 @@ By Mitchell Wright
 
 ## Epistemology
 - Identity
+- Forces acting on self
+  - entropy
+  - survival
+  - the equilibrium
 - Operations of Self
   - Fundamental
     - Realization
@@ -34,7 +38,7 @@ By Mitchell Wright
       - Tests of Objectivity
         - Consistency
     - Comparison
-  - Expedients
+  - Optimization
     - Analogy
       - Tests of Objectivity
         - Scope and Application
@@ -51,11 +55,16 @@ By Mitchell Wright
         - Classification Performance
         - Self-Referential
     - Hardening
-- Operations on Environment
-  - Artifacts
+      - Physical changes
+      - Mastery
+
+# Communication
+Operations on Environment
+- Artifacts
     - Production
     - Consumption
-  - Communication
+- Communication
     - Encoding
     - Decoding
-    - Single Plaintext Principle
+    - Tests of objectivity
+      - Single Plaintext Principle

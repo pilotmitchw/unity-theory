@@ -14,19 +14,19 @@ of a temperature difference across the boundary.
 across the boundary in the opposite direction as heat
 
 ## The Cold Plate vs the Anti-Hot Plate
-Every good philosophical discussion should include a hot drink. Let's make one. I'm having English Breakfast tea but 
+Every good philosophical discussion should include a hot drink. Let's make one. I'm having English Breakfast tea, but 
 you can make it whatever you want. To get there, we need boiling water. So - let's get started!
 
 Let's take a hot plate—I just went online and searched 'hot plate' and picked a representative example. It uses
-resistive heating to make a coil hot. Nice and simple if you generalize it to 'machine that makes hot', which is all
+resistive heating to make a coil hot. Nice and simple if you generalize it to 'machine that makes hot,', which is all
 we need for now.
 
 ### The Cold Plate
-Let's now say that I pulled out a new invention—the Cold Plate. This thing is amazing—it's a machine that, when powered,
-completely prevents heat. You expect transfer across that border? No way, my friend. The Cold Plate stops it COLD.
-
-Let's plug it up and try it out. Take the kettle, put it on there and - see? The water doesn't boil!
+Our hot plate is also a cold plate. All we have to do is not plug it in and, lo, it is not hot! 
 
 
 
 ### The Anti-Hot Plate
+An anti-hot plate would consume power to anti-heat our pot of water. Energy is conserved, so this power has to go
+somewhere, which leads to this point: the anti-hot plate cannot make things cold because that would not conserve
+energy. 
